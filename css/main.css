@@ -505,10 +505,10 @@ ul.sub-menu {
 }
 #home-slider h1{
   margin-top: 100px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 #home-slider .btn-common {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 #home-slider .preloader {
   position: absolute;
@@ -2253,4 +2253,7 @@ span.stButton_gradient,
 }
 #about2{
   color: #FFFFFF;
+}
+.navbar-header{
+  height: 75px;
 }

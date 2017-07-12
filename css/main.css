@@ -63,8 +63,8 @@
   }
   .btn-common {
     font-size: 14px;
-    color: #0099ae;
-    border: 1px solid #0099ae;
+    color: #ffffff;
+    border: 3px solid #ffffff;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     padding: 10px 25px;
@@ -80,8 +80,9 @@
     outline: none;
     background: none;
     box-shadow: none;
-    color: #01707f;
-    border-color:#01707f;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
   }
   .align-right{
     text-align: right;

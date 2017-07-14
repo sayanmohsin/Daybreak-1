@@ -504,3 +504,6 @@
     padding: 12px 11px;
   }
 }
+.navbar.navbar-inverse{
+  margin-bottom: 0px;
+}

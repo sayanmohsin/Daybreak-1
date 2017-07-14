@@ -64,7 +64,7 @@
   .btn-common {
     font-size: 14px;
     color: #ffffff;
-    border: 1px solid #ffffff;
+    border: 2px solid #ffffff;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     padding: 10px 25px;
@@ -200,7 +200,7 @@
 #header .navbar {
   background: #fff;
   border: 0;
-  margin-bottom: 0;
+  margin-bottom: 10;
 }
 /*#header .container {
   position: fixed;
@@ -212,6 +212,7 @@
   padding: 0;
   padding-bottom: 20px;
   margin-left: 0;
+  margin-bottom: 10px;
 }
 #header .navbar-brand h1{
   padding: 0;
@@ -220,15 +221,12 @@
 #header .navbar-brand img{
   width: 250px;
 }
-#header .navbar-nav.navbar-right >li:last-child{
-  margin-right: 20px;
-}
 #header .navbar-nav.navbar-right >li a {
   color: #000;
   font-size: 12px;
   padding: 20px;
   text-transform: uppercase;
-  font-weight: 300;
+  font-weight: 400;
 }
 #header .navbar-inverse .navbar-nav  li.active > a,
 #header .navbar-inverse .navbar-nav  li.active > a:focus,

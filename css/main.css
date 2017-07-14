@@ -64,7 +64,7 @@
   .btn-common {
     font-size: 14px;
     color: #ffffff;
-    border: 3px solid #ffffff;
+    border: 1px solid #ffffff;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     padding: 10px 25px;
@@ -80,9 +80,8 @@
     outline: none;
     background: none;
     box-shadow: none;
-    color: #ffffff;
-    font-size: 16px;
-    font-weight: 700;
+    color: #01707f;
+    border-color:#01707f;
   }
   .align-right{
     text-align: right;
@@ -229,7 +228,7 @@
   font-size: 12px;
   padding: 20px;
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight: 300;
 }
 #header .navbar-inverse .navbar-nav  li.active > a,
 #header .navbar-inverse .navbar-nav  li.active > a:focus,
@@ -505,10 +504,10 @@ ul.sub-menu {
 }
 #home-slider h1{
   margin-top: 100px;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 #home-slider .btn-common {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 #home-slider .preloader {
   position: absolute;
@@ -2253,7 +2252,4 @@ span.stButton_gradient,
 }
 #about2{
   color: #FFFFFF;
-}
-.navbar-header{
-  height: 75px;
 }

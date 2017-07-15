@@ -42,7 +42,6 @@ jQuery(function($) {
         }
     });
     $('.timer').each(count);
-
     function count(options) {
         var $this = $(this);
         options = $.extend({}, options || {}, $this.data('countToOptions') || {});
